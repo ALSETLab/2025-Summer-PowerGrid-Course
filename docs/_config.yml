@@ -8,7 +8,8 @@ show_download: false
 
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
-url: "https://alsetlab.github.io/2025-Summer-PowerGrid-Course/"
+url: "https://alsetlab.github.io"
+baseurl: "/2025-Summer-PowerGrid-Course"
 
 sidebar:
   - Welcome
