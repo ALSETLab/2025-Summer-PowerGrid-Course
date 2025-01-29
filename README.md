@@ -1,2 +1,10 @@
-# 2025-Summer-PowerGrid-Course
-Website for the 2025 Summer Course on "Introduction to Power System Dynamics, Stability and Control"
+---
+id: Home
+title: Start Page
+auto_title: false
+---
+
+# 2025 PhD Summer Course on "Introduction to Power Grid Dynamics, Stability and Control"
+
+Welcome to the website for the 2025 Summer Course on "Introduction to Power Grid Dynamics, Stability and Control".
+
