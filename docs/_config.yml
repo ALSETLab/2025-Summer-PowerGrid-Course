@@ -1,8 +1,14 @@
 title: 2025 Power Grid Summer School @ ECL
+
 logo: /Assets/logo.svg
+
 description: 2025 Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
+
 show_download: false
+
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
+url: "https://alsetlab.github.io/2025-Summer-PowerGrid-Course/"
 
 sidebar:
   - Welcome
