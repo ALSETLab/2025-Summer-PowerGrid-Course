@@ -1,7 +1,6 @@
 title: 2025 Power Grid Summer School @ ECL
-logo: /Assets/img/logo.svg
+logo: /Assets/logo.svg
 description: 2025 Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
-theme: jekyll-theme-minimal
 show_download: false
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
