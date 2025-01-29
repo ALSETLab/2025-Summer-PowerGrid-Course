@@ -6,9 +6,10 @@ description: 2025 Summer School on "Introduction to Power Grid Dynamics, Stabili
 
 show_download: false
 
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+theme: minimal
 
 url: "https://alsetlab.github.io"
+
 baseurl: "/2025-Summer-PowerGrid-Course"
 
 sidebar:
