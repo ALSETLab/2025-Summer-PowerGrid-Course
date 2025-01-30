@@ -16,5 +16,4 @@ sidebar_label: Venue, Travel, etc.
 
 ### Transportation
 
-
-<img src="/2025-Summer-PowerGrid-Course/assets/images/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>

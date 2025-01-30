@@ -10,4 +10,4 @@ Welcome to the website for the 2025 Summer Course on "Introduction to Power Grid
 
 Please follow this link for more information: [Welcome!](./01_Welcome.md)
 
-<img src="/docs/assets/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>

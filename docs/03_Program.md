@@ -9,4 +9,4 @@ sidebar_label: Program
 
 Program goes here.
 
-<img src="/2025-Summer-PowerGrid-Course/assets/images/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>

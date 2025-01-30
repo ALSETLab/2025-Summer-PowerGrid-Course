@@ -5,7 +5,7 @@ auto_title: false
 sidebar_label: Welcome
 ---
 
-# Welcome to the 2025 Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
+# 2025 Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
 
 The Summer School consists of a five-days PhD-level course that provides to introduction to the dynamics, stability and control of power grids, suitable for PhD students at their beginning of their doctoral program in Electrical Engineering or related areas.
 
