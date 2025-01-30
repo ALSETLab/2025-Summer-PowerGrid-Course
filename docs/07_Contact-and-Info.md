@@ -7,7 +7,9 @@ sidebar_label: Contact
 
 # Contact and Information
 
-Contact info
+For general information, please send an email the organizers by clicking [here](mailto:xavier.bombois@ec-lyon.fr;vanfrl@rpi.edu?subject=2025%20Summer%20School&body=Body%20text).
+
+*Pour plus d’informations en français, veuillez contacter  l’organisateur local [Dr. Xavier Bombois](mailto:xavier.bombois@ec-lyon.fr;vanfrl@rpi.edu?subject=2025%20Summer%20School&body=Body%20text)*.
 
 To find more information about Lyon, follow the link [here](./07_Contact-and-Info.md).
 

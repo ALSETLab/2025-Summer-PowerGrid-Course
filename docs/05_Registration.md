@@ -23,7 +23,7 @@ Please complete the following form to apply to join the course:
 
 ## Selection Information
 - We will inform students selected to attend the course as we receive applications via email on a rolling basis.
-- **Important**: If you have a change of plans, please inform us so we can give your spot to another student.
+- **Important**: If you have a change of plans, [please inform us](./07_Contact-and-Info.md) so we can give your spot to another student.
 - We will stop processing applications on May 15, 2025.
 
 ## Questions
