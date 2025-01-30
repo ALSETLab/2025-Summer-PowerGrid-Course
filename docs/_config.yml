@@ -1,9 +1,23 @@
 title: 2025 Power Grid Summer School @ ECL
 
-logo: /Assets/logo.svg
+logo: /img/logo.svg
 
 description: 2025 Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
 
 show_download: false
 
-theme: jekyll-theme-minimal
+remote_theme: zendesk/jekyll-theme-zendesk-garden@v0.7.3
+
+url: "https://alsetlab.github.io"
+
+baseurl: "/2025-Summer-PowerGrid-Course"
+
+sidebar:
+  - Welcome
+  - Content
+  - Program
+  - Venue-Travel
+  - Registration
+  - Organization
+  - Contact
+  - About-Lyon
