@@ -15,7 +15,7 @@ sidebar_label: Organization
 
 <img src="./assets/luigi.jpeg" width=100>
 
-To contact the course organizers follow the link [here](./06_Organization.md).
+To contact the course organizers follow the link [here](./07_Contact-and-Info.md).
 
 ### Acknowledgement
 The organizers wish to thank the [Ecole Centrale de Lyon](https://www.ec-lyon.fr/en) for [selecting Prof. Vanfretti as Visiting Faculty](https://ecse.rpi.edu/news/ecse-prof-luigi-vanfretti-selected-invited-professor-ecl-lyon-france), which made it possible to organize this course.
