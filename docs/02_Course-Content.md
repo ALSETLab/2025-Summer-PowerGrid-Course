@@ -8,3 +8,5 @@ sidebar_label: Content
 # Content and Objectives
 
 Content goes here.
+
+<img src="/docs/img/bandeaulyon3.jpg" width=600>

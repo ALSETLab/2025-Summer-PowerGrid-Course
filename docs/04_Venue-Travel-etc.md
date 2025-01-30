@@ -17,3 +17,4 @@ sidebar_label: Venue, Travel, etc.
 ### Transportation
 
 
+<img src="/docs/img/bandeaulyon3.jpg" width=600>

@@ -12,3 +12,5 @@ The Summer School consists of a five-days PhD-level course that provides to intr
 The course will cover fundamental concepts for the analysis of power system phenomena in steady-state and electromechanical transients, as well as analysis methods, as further described [here](./02_Course-Content.md)
 
 The course will take place at the [Ecole Centrale de Lyon](https://www.ec-lyon.fr/en), located in [Ecully](https://fr.wikipedia.org/wiki/%C3%89cully), which is part of the [Greater Lyon](https://en.wikipedia.org/wiki/Metropolis_of_Lyon) metropolitan area, and near [Lyon](https://en.visiterlyon.com/).
+
+<img src="/docs/img/bandeaulyon3.jpg" width=600>
