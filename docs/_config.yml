@@ -7,17 +7,3 @@ description: 2025 Summer School on "Introduction to Power Grid Dynamics, Stabili
 show_download: false
 
 theme: jekyll-theme-minimal
-
-url: "https://alsetlab.github.io"
-
-baseurl: "/2025-Summer-PowerGrid-Course"
-
-sidebar:
-  - Welcome
-  - Content
-  - Program
-  - Venue-Travel
-  - Registration
-  - Organization
-  - Contact
-  - About-Lyon
