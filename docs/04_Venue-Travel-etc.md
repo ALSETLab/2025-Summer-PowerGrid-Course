@@ -16,4 +16,7 @@ sidebar_label: Venue, Travel, etc.
 
 ### Transportation
 
+
+To register for the course, please follow the link [here](./05_Registration.md).
+
 <img src="./assets/footer.jpg" width=600>
