@@ -9,4 +9,4 @@ sidebar_label: Registration
 
 Registration info goes here.
 
-<img src="/2025-Summer-PowerGrid-Course/assets/img/footer.jpg" width=600>
+<img src="/2025-Summer-PowerGrid-Course/assets/images/footer.jpg" width=600>

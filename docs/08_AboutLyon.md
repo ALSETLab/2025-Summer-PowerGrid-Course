@@ -17,4 +17,4 @@ Find out more in the following videos:
 - [Lyon in the Air](https://www.youtube.com/watch?v=BPGLiL_O7Iw)
 - [Two Days in Lyon](https://www.youtube.com/watch?v=Z9kb5ffBsK8) 
 
-<img src="/2025-Summer-PowerGrid-Course/assets/img/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>

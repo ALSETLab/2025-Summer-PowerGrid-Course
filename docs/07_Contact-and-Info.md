@@ -9,4 +9,4 @@ sidebar_label: Contact
 
 Contact info
 
-<img src="/2025-Summer-PowerGrid-Course/assets/img/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>

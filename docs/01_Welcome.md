@@ -13,4 +13,4 @@ The course will cover fundamental concepts for the analysis of power system phen
 
 The course will take place at the [Ecole Centrale de Lyon](https://www.ec-lyon.fr/en), located in [Ecully](https://fr.wikipedia.org/wiki/%C3%89cully), which is part of the [Greater Lyon](https://en.wikipedia.org/wiki/Metropolis_of_Lyon) metropolitan area, and near [Lyon](https://en.visiterlyon.com/).
 
-<img src="/docs/assets/footer.jpg" width=600>
+<img src="./assets/footer.jpg" width=600>
