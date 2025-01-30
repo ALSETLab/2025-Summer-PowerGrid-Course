@@ -8,3 +8,4 @@ auto_title: false
 
 Welcome to the website for the 2025 Summer Course on "Introduction to Power Grid Dynamics, Stability and Control".
 
+<img src="/assets/img/footer.jpg" width=600>

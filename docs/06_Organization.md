@@ -8,4 +8,4 @@ sidebar_label: Organization
 
 Organization info goes here.
 
-<img src="/docs/img/bandeaulyon3.jpg" width=600>
+<img src="/2025-Summer-PowerGrid-Course/assets/img/footer.jpg" width=600>

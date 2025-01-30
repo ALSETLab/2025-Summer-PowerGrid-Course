@@ -7,4 +7,6 @@ sidebar_label: Contact
 
 # Contact and Information
 
-<img src="/docs/img/bandeaulyon3.jpg" width=600>
+Contact info
+
+<img src="/2025-Summer-PowerGrid-Course/assets/img/footer.jpg" width=600>
