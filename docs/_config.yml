@@ -13,6 +13,7 @@ url: "https://alsetlab.github.io"
 baseurl: "/2025-Summer-PowerGrid-Course"
 
 sidebar:
+  - Home
   - Welcome
   - Content
   - Program
