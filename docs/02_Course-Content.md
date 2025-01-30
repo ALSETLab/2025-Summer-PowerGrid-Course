@@ -6,7 +6,7 @@ sidebar_label: Content
 ---
 
 # Content and Objectives
-In today's rapidly evolving energy landscape, the stability and resilience of power grids are paramount. This School delves into the critical role of power system dynamics in maintaining grid stability and enhancing resilience against disturbances. Students will explore the fundamental principles and advanced concepts that govern the behavior of power systems under various operating conditions. Through a combination of theoretical insights, computer-based simulations and practical applications, this School equips students and researchers with basic knowledge and skills necessary to build models, analyze, and control power systems for a reliable energy future. Key topics include dynamic modeling, stability analysis, control strategies, and the integration of renewable energy sources.
+In today's rapidly evolving energy landscape, the stability and resilience of power grids are paramount. This School delves into the critical role of power system dynamics in maintaining grid stability and enhancing resilience against disturbances. Students will explore the fundamental principles and advanced concepts that govern the behavior of power systems under various operating conditions. Through a combination of theoretical insights, computer-based simulations and practical applications, this Summer School equips students and researchers with basic knowledge and skills necessary to build models, analyze, and control power systems for a reliable energy future. Key topics include dynamic modeling, stability analysis, control strategies, and the integration of renewable energy sources.
 
 ## Objectives
 The School aims to provide students the ability to:

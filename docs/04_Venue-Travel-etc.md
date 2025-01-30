@@ -17,6 +17,7 @@ You can find the location above from Google Maps [here](https://maps.app.goo.gl/
 The lecture hall is located in the SKYLAB (building Z2). A map of the campus is is available [here](./assets/map.pdf).
 
 ## Travel and Transportation
+### Getting to Lyon!
 Lyon benefits from:
 - an international airport (Lyon Saint Exupéry) with direct flights to major cities in France and Europe 
 - two major railway stations (Lyon Part-Dieu and Lyon Perrache) with direct TGV connections to the majors cities in France. 
@@ -25,18 +26,19 @@ A [tramway](https://www.rhonexpress.fr/en) connects the airport to the railway s
 
 From the railway stations Lyon Part-Dieu and Lyon Perrache, the campus of the "Ecole Centrale" can be reached by public transportation. **The corresponding bus stop is "Campus Lyon Ouest".**
 
+### Public Transportation - Getting to the ECL
 From Lyon Part-Dieu, [bus line C6](https://www.tcl.fr/lignes/ligne-majeure-c6) will bring you to the stop "Campus Lyon Ouest" (end stop of bus line C6)
 
 From Lyon Perrache, [bus line 55](https://www.tcl.fr/lignes/bus-55) will bring you to the stop "Campus Lyon Ouest" (end stop of bus line 55).
 
 More information on public transportation in Lyon can be found at this [link](http://www.tcl.fr/).
 
-### Lodging
-For those traveling for the Summer School, here are a couple of options:
+## Lodging
+For those traveling for the Summer School, here are a couple of options near the venue:
 - The [Residence Paul Comparat](https://www.lyoncampus.com/vivre/se-loger/liste-des-residences-etudiantes/detail/residence-paul-comparat-centrale-lyon) is a student residence on the campus of ECL.
 - The [Campanile Lyon Nord - Ecully](https://lyon-nord-ecully.campanile.com/fr-fr/?utm_content=partoo&utm_medium=seo-bgp&utm_source=google) hotel is located just a few minutes from the venue.
 
-A list of hotels and B&B can be found [here](https://www.ecully.fr/ma-ville/tourisme/les-hebergements-de-tourisme-487.html).
+A more detailed list of hotels and B&B can be found [here](https://www.ecully.fr/ma-ville/tourisme/les-hebergements-de-tourisme-487.html).
 
 Please note that you must arrange for your lodging personally/individually.
 
