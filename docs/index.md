@@ -4,9 +4,9 @@ title: Home
 auto_title: false
 ---
 
-# 2025 PhD Summer School on "Introduction to Power Grid Dynamics, Stability and Control"
+# 2025 PhD Summer School on "Power Grid Dynamics, Stability and Control"
 
-Welcome to the website for the 2025 Summer Course on "Introduction to Power Grid Dynamics, Stability and Control".
+Welcome to the website for the 2025 Summer Course on "Power Grid Dynamics, Stability and Control".
 
 Please follow this link for more information: [Welcome!](./01_Welcome.md)
 

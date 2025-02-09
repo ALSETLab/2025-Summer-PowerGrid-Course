@@ -20,7 +20,7 @@ The lecture hall is located in the SKYLAB (building Z2). A map of the campus is 
 ### Getting to Lyon!
 Lyon benefits from:
 - an international airport (Lyon Saint Exupéry) with direct flights to major cities in France and Europe 
-- two major railway stations (Lyon Part-Dieu and Lyon Perrache) with direct TGV connections to the majors cities in France. 
+- two major railway stations (Lyon Part-Dieu and Lyon Perrache) with direct TGV connections to the major cities in France. 
 
 A [tramway](https://www.rhonexpress.fr/en) connects the airport to the railway station of Lyon Part-Dieu in 30 minutes.
 
@@ -34,11 +34,7 @@ From Lyon Perrache, [bus line 55](https://www.tcl.fr/lignes/bus-55) will bring y
 More information on public transportation in Lyon can be found at this [link](http://www.tcl.fr/).
 
 ## Lodging
-For those traveling for the Summer School, here are a couple of options near the venue:
-- The [Residence Paul Comparat](https://www.lyoncampus.com/vivre/se-loger/liste-des-residences-etudiantes/detail/residence-paul-comparat-centrale-lyon) is a student residence on the campus of ECL.
-- The [Campanile Lyon Nord - Ecully](https://lyon-nord-ecully.campanile.com/fr-fr/?utm_content=partoo&utm_medium=seo-bgp&utm_source=google) hotel is located just a few minutes from the venue.
-
-A more detailed list of hotels and B&B can be found [here](https://www.ecully.fr/ma-ville/tourisme/les-hebergements-de-tourisme-487.html).
+A detailed list of hotels and B&Bs in Ecully can be found [here](https://www.ecully.fr/ma-ville/tourisme/les-hebergements-de-tourisme-487.html).
 
 Please note that you must arrange for your lodging personally/individually.
 

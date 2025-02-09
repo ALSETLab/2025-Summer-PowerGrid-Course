@@ -7,19 +7,14 @@ sidebar_label: Registration
 
 # Registration
 
-The course is **free of charge**, however, there is limited capacity.
+The course is **free of charge**.
 
-Because this course aims to support the doctoral development of students at the [Ecole Centrale de Lyon](https://www.ec-lyon.fr/en), registration applications will be prioritized as follows:
-1. Students from [Ecole Centrale de Lyon](https://www.ec-lyon.fr/en).
-2. Students from institutions members of [Laboratoire Ampère](https://cv.hal.science/xavier-bombois-cnrs)
-3. Students at French research institutions and universities.
-4. Students located outside of France.
-
-- Note: although the course targets PhD students at their initial phase of their doctorate, students conducting MSc studies or obtaining their *diplôme d'ingénieur* can also apply.
+However, the number of participants attending "in person" is limited to 20. For in-person participation, priority will be given to PhD students from Ecole Centrale de Lyon and from the doctoral school ED EEA.
 
 ## Application Form
 Please complete the following form to apply to join the course:
-- Link to form to be added shortly
+- **Apply to attend in-person:** Link to form to be added shortly
+- **Apply to attend on-line (virtual):** Link to form to be added shortly
 
 ## Selection Information
 - We will inform students selected to attend the course as we receive applications via email on a rolling basis.

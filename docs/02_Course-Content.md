@@ -27,10 +27,8 @@ The School consists of a series of lectures and of (computer) exercise sessions.
 
 For the computer exercises,  participants  should have a computer with administrative rights to install software. Simulations will be conducted with [OpenModelica](https://openmodelica.org/). In addition, to conduct power flow analysis and perform linear analysis and control design, one of the latest versions of MATLAB (version R2024a at least) must be installed. The following features must be available: Simulink, Control Systems Toolbox.
 
-The format of the course is **in-person** and free-of-charge. To participate, please find more information [here](./05_Registration.md).
-
 ## Audience
-This Summer School is suitable for PhD students at their beginning of their doctoral program in Electrical Engineering or related areas. 
+The school is mainly aimed at an audience of PhD students in Electrical Engineering (or related areas), but the course is also open to any other persons interested in the topic of power systems.
 
 **The course is eligible for scientific doctoral modules (+/- 20 hours)**. A certificate of attendance will be delivered to all participants after the end of the course.
 
