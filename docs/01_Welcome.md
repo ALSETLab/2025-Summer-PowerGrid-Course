@@ -9,7 +9,7 @@ sidebar_label: Welcome
 
 ## 2025 Summer School on "Power Grid Dynamics, Stability and Control"
 
-**Dates:** Monday June 23rd (10:00 am) to Friday 27th, 2025 (5:30 pm).
+**Dates:** Monday June 23rd (10:00 am CET) to Friday 27th, 2025 (5:30 pm CET)
 
 <img src="./assets/skylab.jpg" width=600>
 
