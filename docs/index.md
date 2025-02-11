@@ -10,4 +10,7 @@ Welcome to the website for the 2025 Summer Course on "Power Grid Dynamics, Stabi
 
 Please follow this link for more information: [Welcome!](./01_Welcome.md)
 
+<img src="./assets/logo.svg" width=500>
+
+
 <img src="./assets/footer.jpg" width=600>

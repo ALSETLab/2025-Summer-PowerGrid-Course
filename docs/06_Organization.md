@@ -9,7 +9,7 @@ sidebar_label: Organization
 ## Organizing Team
 **Local Organization**: [Dr. Xavier Bombois (CNRS, Laboratoire Ampère)](https://cv.hal.science/xavier-bombois-cnrs)
 
-<img src="./assets/xavier.jpeg" width=100>
+<img src="./assets/xavier.png" width=100>
 
 **Course Instructor / Organizer**: [Prof. Luigi Vanfretti (RPI, ECSE)](https://faculty.rpi.edu/luigi-vanfretti)
 
