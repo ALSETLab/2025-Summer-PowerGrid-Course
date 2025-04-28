@@ -12,10 +12,10 @@ The course is **free of charge**, but you must register to attend either in-pers
 ## Application Form
 ### In-Person Participation
 - The number of participants attending "in person" is limited to 20. For in-person participation, **priority** will be given to PhD students from Ecole Centrale de Lyon and from the doctoral school ED EEA **up to the 1st of April of 2025**.
-- We have reach the maximum capacity for in-person participation. 
+- We have reached the maximum capacity for in-person participation. 
 
 ### On-line Participation
-Please complete the following form to apply to join the course: [here](https://forms.gle/ixjzN9kZqW2tGvmK8).
+- We have reached the maximum capacity for on-line participation registrations. You will be informed about selection on May 15, 2025.
 
 ## Selection Information
 ### In-Person Participation
@@ -25,7 +25,6 @@ Please complete the following form to apply to join the course: [here](https://f
 ### On-line Participation
 - We will inform students selected to attend the course as we receive applications via email on May 15, 2025.
 - We will stop processing applications on May 15, 2025.
-- We will update this page when the maximum "on-line" limit has been reached.
 
 ## Questions
 Information about the organizers can be found [here](./05_Registration.md).
