@@ -20,7 +20,7 @@ The School aims to provide students the ability to:
 The course program can be found [here](./03_Program.md).
 
 ## Instructors
-The course instructor is [Prof. Luigi Vanfretti (RPI, ECSE)](https://faculty.rpi.edu/luigi-vanfretti), and includes an invited guest lecture from [Dr. Carmen Cardozo](https://www.linkedin.com/in/carmen-cardozo/) of [Réseau de Transport d'Électricité](https://www.rte-france.com/en/home).
+The course instructor is [Prof. Luigi Vanfretti (RPI, ECSE)](https://faculty.rpi.edu/luigi-vanfretti), and includes an invited guest lecture from [Dr.Sébastien Dennetière](https://www.linkedin.com/in/s%C3%A9bastien-denneti%C3%A8re-3608b725/) of [RTE International](https://www.rte-international.com/).
 
 ## Format
 The School consists of a series of lectures and of (computer) exercise sessions.
