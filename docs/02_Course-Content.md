@@ -25,7 +25,7 @@ The course instructor is [Prof. Luigi Vanfretti (RPI, ECSE)](https://faculty.rpi
 ## Format
 The School consists of a series of lectures and of (computer) exercise sessions.
 
-For the computer exercises,  participants  should have a computer with administrative rights to install software. Simulations will be conducted with [OpenModelica](https://openmodelica.org/). In addition, to conduct power flow analysis and perform linear analysis and control design, one of the latest versions of MATLAB (version R2024a at least) must be installed. The following features must be available: Simulink, Control Systems Toolbox.
+For the computer exercises,  participants  should have a computer with administrative rights to install software. Simulations will be conducted with [OpenModelica](https://openmodelica.org/). In addition, to conduct power flow analysis and perform linear analysis and control design, one of the latest versions of MATLAB (version R2024a at least) must be installed. The following features must be available: Simulink, Control Systems Toolbox. If your university or employer do not have access to MATLAB licenses, you can request a trial license [here](https://www.mathworks.com/campaigns/products/trials.html).
 
 ## Audience
 The school is mainly aimed at an audience of PhD students in Electrical Engineering (or related areas), but the course is also open to any other persons interested in the topic of power systems.
